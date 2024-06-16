@@ -16,19 +16,11 @@ This repository contains a ASP.NET Core MVC app app. The project focuses on buil
   
 ### Setup:
 - Clone this repository.
-- Restore dependencies:
+- Restore dependencies, build the application and run tests:
 
 ```sh
  dotnet restore
-```
-- Build the application:
-  
-``` sh
  dotnet build
-```
-- Run tests:
-  
-```sh
  dotnet test
 ```
 
