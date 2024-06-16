@@ -20,18 +20,15 @@ This repository contains a ASP.NET Core MVC app app. The project focuses on buil
 1. **Clone this repositor**
 2. **Restore dependencies**
 
-```
-sh
+```sh
  dotnet restore
 ```
 3. **Build the application**
-```
-sh
+```sh
 dotnet build
 ```
 4. **Run the Tests**
-```
-sh
+```sh
 dotnet test
 ```
 - (Optional) Review the existing "House Renting System" application code.
