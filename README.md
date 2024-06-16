@@ -15,17 +15,15 @@ This repository contains a ASP.NET Core MVC app app. The project focuses on buil
 - Familiarity with GitHub Actions.
   
 ### Setup:
-
-1. **Clone this repository.**
-2. **Restore dependencies.**
+- Clone this repository.
+- Restore dependencies.
 
 ```sh
  dotnet restore
  dotnet build
  dotnet test
 ```
-
-3. **(Optional) Review the existing "House Renting System" application code.**
+- Review the existing "House Renting System" application code.
 
 ### Running Tests:
 
