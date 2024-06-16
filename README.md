@@ -1,4 +1,4 @@
-# CI workflow-"HouseRentingSystem" ASP.NET Core MVC app
+# CI workflow - "HouseRentingSystem" ASP.NET Core MVC app
 ## This is a test project for Back-End Test Automation March 2024 Course @ SoftUni
 ---
 ### Overview
