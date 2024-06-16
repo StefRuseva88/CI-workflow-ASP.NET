@@ -1,6 +1,5 @@
 # "HouseRentingSystem" ASP.NET Core MVC app CI workflow 
 ## This is a test project for Back-End Test Automation March 2024 Course @ SoftUni
-"HouseRentingSystem" ASP.NET Core MVC app CI workflow 
 ---
 ### Overview
 This repository contains a ASP.NET Core MVC app app. The project focuses on building a CI workflow using GitHub Actions to automate testing of a pre-existing  application ("House Renting System").
@@ -39,11 +38,11 @@ The CI workflow is already defined in the .github/workflows directory. Pushing y
 
 - Set up the environment.
 - Install dependencies.
-- Run tests for the "Student Registry" application on two different Node.js versions.
+- Run tests for the "House Renting System" app.
 ### Additional Notes:
 
 - This project serves as a demonstration of CI/CD concepts using a pre-existing application.
-- The specific details of the "Student Registry" application are not covered in this repository.
+- The specific details of the "House Renting System" application are not covered in this repository.
 
 ### Contributing
 Contributions are welcome! If you have any improvements or bug fixes, feel free to open a pull request.
