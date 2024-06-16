@@ -29,7 +29,7 @@ This repository contains a ASP.NET Core MVC app app. The project focuses on buil
 
 ### Running Tests:
 
-The CI workflow is already defined in the .github/workflows directory. Pushing your code to the main branch will trigger the workflow automatically. The workflow will:
+The CI workflow is already defined in the `.github/workflows directory`. Pushing your code to the main branch will trigger the workflow automatically. The workflow will:
 
 - Set up the environment.
 - Install dependencies.
