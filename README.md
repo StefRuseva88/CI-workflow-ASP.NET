@@ -21,15 +21,10 @@ This repository contains a ASP.NET Core MVC app app. The project focuses on buil
 
 ```sh
  dotnet restore
+ dotnet build
+ dotnet test
 ```
-- **Build the application**
-```sh
-dotnet build
-```
-- **Run the Tests**
-```sh
-dotnet test
-```
+
 3. **(Optional) Review the existing "House Renting System" application code.**
 
 ### Running Tests:
