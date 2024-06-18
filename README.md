@@ -6,7 +6,7 @@
 ## This is a test project for Back-End Test Automation March 2024 Course @ SoftUni
 ---
 ### Overview
-This repository contains a ASP.NET Core MVC app app. The project focuses on building a CI workflow using GitHub Actions to automate testing of a pre-existing  application ("House Renting System").
+This repository contains a ASP.NET Core MVC app app. The project focuses on building a CI workflow using GitHub Actions to automate testing of the application "House Renting System".
 
 ### Project Goals:
 
