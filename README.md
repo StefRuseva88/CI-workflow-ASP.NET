@@ -1,5 +1,6 @@
 # CI workflow for "HouseRentingSystem" ASP.NET Core MVC app
 ![image](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![image](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ## This is a test project for Back-End Test Automation March 2024 Course @ SoftUni
 ---
 ### Overview
