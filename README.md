@@ -11,7 +11,7 @@ This repository contains a ASP.NET Core MVC app app. The project focuses on buil
 ## Project Goals:
 
 - Implement a CI workflow in GitHub Actions.
-- Configure the workflow to run tests on the "Student Registry" application.
+- Configure the workflow to run tests on the "House Renting Sysyem" application.
 
 ## Prerequisites:
 
