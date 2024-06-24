@@ -1,4 +1,4 @@
-# CI workflow for "HouseRentingSystem" ASP.NET Core MVC app
+# CI workflow for "House Renting System" ASP.NET Core MVC app
 ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![image](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![image](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
